@@ -25,10 +25,8 @@
 ---
 
 ## 📫 Connect With Me  
-- 🌐 GitHub: [Your GitHub Profile Link]  
+- 🌐 [GitHub](https://github.com/tctanim)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tctanim77/)
-- 📧 Email: [Your Email Here]  
+- 📧 Email: [tanimshorkar77@gmail.com](mailto:tanimshorkar77@gmail.com)    
 
----
-
-⭐️ *"Keep learning, keep growing."*  
+--- 
