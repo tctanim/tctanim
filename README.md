@@ -26,7 +26,7 @@
 
 ## 📫 Connect With Me  
 - 🌐 GitHub: [Your GitHub Profile Link]  
-- 💼 LinkedIn: [](https://www.linkedin.com/in/tctanim77/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tctanim77/)
 - 📧 Email: [Your Email Here]  
 
 ---
