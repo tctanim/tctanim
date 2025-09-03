@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Md. Shahariar Hossen Tanim  
 
-<!--
-**tctanim/tctanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student at **Daffodil International University**  
+💻 Passionate about **programming, problem-solving, and technology**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me  
+- 🔭 Currently studying **Software Engineering**  
+- 🌱 Learning and practicing **C Programming**  
+- 📚 Exploring opportunities in **Outsourcing & Data Entry**  
+- ⚡ Skilled in:  
+  - ✅ C (Programming Language)  
+  - ✅ Microsoft Office (Word, Excel, PowerPoint)  
+  - ✅ Data Entry & Typing  
+  - ✅ Static Analysis & Static Timing Analysis  
+
+---
+
+## 📈 Goals  
+- 🚀 Improve my coding skills and contribute to open-source projects  
+- 🌍 Build a strong career in **Software Development & Cyber Security**  
+- 💡 Constantly learning new technologies to expand my knowledge  
+
+---
+
+## 📫 Connect With Me  
+- 🌐 GitHub: [Your GitHub Profile Link]  
+- 💼 LinkedIn: [Your LinkedIn Profile Link]  
+- 📧 Email: [Your Email Here]  
+
+---
+
+⭐️ *"Keep learning, keep growing."*  
