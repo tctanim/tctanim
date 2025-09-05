@@ -3,13 +3,13 @@
     # 💫 About Me😒:
 🎓 Software Engineering student at **Daffodil International University**  
 💻 Passionate about **programming, problem-solving, and technology**
-🔭 Currently studying Software Engineering.
-🌱 Learning and practicing C Programming.
-📚 Exploring opportunities in Outsourcing & Data Entry.
-✅ I have learned C,HTML and CSS.
-✅ Microsoft Office (Word, Excel, PowerPoint).
-✅ Data Entry & Typing.
-✅ Static Analysis & Static Timing Analysis.
+🔭 Currently studying Software Engineering.<br>
+🌱 Learning and practicing C Programming.<br>
+📚 Exploring opportunities in Outsourcing & Data Entry.<br>
+✅ I have learned C,HTML and CSS.<br>
+✅ Microsoft Office (Word, Excel, PowerPoint).<br>
+✅ Data Entry & Typing.<br>
+✅ Static Analysis & Static Timing Analysis.<br>
 
 
 # 💻 Languages, Frameworks & Tools:
