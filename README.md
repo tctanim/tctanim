@@ -1,6 +1,6 @@
 
 
-    # 💫 About Me😒:
+ 🌌 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 😒:
 🎓 Software Engineering student at **Daffodil International University**  
 💻 Passionate about **programming, problem-solving, and technology**<br>
 🔭 Currently studying Software Engineering.<br>
