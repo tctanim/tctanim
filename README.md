@@ -40,6 +40,6 @@
 - 🌐 [GitHub](https://github.com/tctanim)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tctanim77/)
 - 💬 Email: [tanimshorkar77@gmail.com](mailto:tanimshorkar77@gmail.com)
-- 📞 What's App:[Md.Shahariar Hossen Tanim](callto:+8801727275916)
+- 📞 What's App:[what'sapp](callto:+8801727275916)
 
 --- 
