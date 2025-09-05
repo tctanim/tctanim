@@ -1,7 +1,7 @@
 
 
  🌌 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 😒:
-🎓 Software Engineering student at **Daffodil International University**  
+🎓 Software Engineering student at **Daffodil International University** <br>
 💻 Passionate about **programming, problem-solving, and technology**<br>
 🔭 Currently studying Software Engineering.<br>
 🌱 Learning and practicing C Programming.<br>
