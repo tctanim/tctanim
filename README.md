@@ -4,7 +4,7 @@
 🎓 Software Engineering student at **Daffodil International University** <br>
 💻 Passionate about **programming, problem-solving, and technology**<br>
 🔭 Currently studying Software Engineering.<br>
-🌱 Learning and practicing C Programming.<br>
+🌱 Learning and practicing C++ Programming.<br>
 📚 Exploring opportunities in Outsourcing & Data Entry.<br>
 ✅ I have learned C,HTML and CSS.<br>
 ✅ Microsoft Office (Word, Excel, PowerPoint).<br>
